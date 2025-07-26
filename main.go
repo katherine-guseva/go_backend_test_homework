@@ -1,5 +1,6 @@
 package main
 
+// privet
 import (
 	"fmt"
 )
